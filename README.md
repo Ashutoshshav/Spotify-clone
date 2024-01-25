@@ -1,4 +1,6 @@
 # Spotify-clone
 This is Spotify music clone
 
-# Ashutosh
+# Technologies
+HTML
+CSS
